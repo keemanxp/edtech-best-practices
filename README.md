@@ -230,7 +230,7 @@ This guide is released under the [Creative Commons Attribution-ShareAlike 4.0 In
 
 ## About the Author
 
-This guide is maintained by [Chuah Kee-Man](https://chuahkeeman.net), an educational technology specialist passionate about championing quality and equitable education for all. For questions or collaboration opportunities, please reach out through [GitHub](https://github.com/keemanxp).
+This guide is maintained by [Kee-Man Chuah](https://chuahkeeman.net), an educational technology specialist passionate about championing quality and equitable education for all. For questions or collaboration opportunities, please reach out through [GitHub](https://github.com/keemanxp).
 
 ---
 
