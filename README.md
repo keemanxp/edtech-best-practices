@@ -1,4 +1,4 @@
-# Educational Technology Best Practices: A Comprehensive Guide
+# Educational Technology Best Practices: A Quick Guide
 
 ## Table of Contents
 - [Introduction](#introduction)
